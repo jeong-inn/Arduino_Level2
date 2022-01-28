@@ -1,6 +1,4 @@
 # arduinoLevel2
-ET-Board
+**ET-Board**
 
-Arduino 
-
-http://et.ketri.re.kr/learning/common_arduino.html
+>Arduino http://et.ketri.re.kr/learning/common_arduino.html
